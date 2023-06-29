@@ -1,1 +1,13 @@
-
+{
+  "ID" : "527",
+  "Environment" : "Win 10 Chrome 114",
+  "Title" : "The Link [Cookies Policy] in the block 'Capital Com Stock and CFD Investing Ltd (FSA)' and the block 'Capital Com Online Investments Ltd' on the page 'Terms and Policies' are not translated into any language then EN",
+  "Steps" : {
+              "1" : "Navigate to capital.com",
+              "2" : "Click button [Trade] in the header",
+              "3" : "Click link [Privacy Policy]",
+              "4" : "Select any language other than EN"
+}
+  "Expected result" : "The Link [Cookies Policy] in the block  'Capital Com Stock and CFD Investing Ltd (FSA)' and the block 'Capital Com Online Investments Ltd' on the page 'Terms and Policies' are translated into any selected language",
+  "Actual result" "The Link [Cookies Policy] in the block  'Capital Com Stock and CFD Investing Ltd (FSA)' and the block 'Capital Com Online Investments Ltd' on the page 'Terms and Policies' are not translated into any selected language then EN"
+}
